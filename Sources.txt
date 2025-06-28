@@ -1,0 +1,18 @@
+Code Sources
+
+Code was taken from multiple GitHubs, which are
+
+Uploading Image, Text Extraction
+https://github.com/likhithasree2/Ingredient-Safety-Analyzer-using-Tesseract-OCR
+
+Enhancing Image
+https://github.com/python-pillow/pillow-scripts/blob/main/Scripts/enhancer.py
+
+Ingredients Database Source
+
+Database was taken from multiple platforms which are:
+INCI Decoder
+https://incidecoder.com/
+
+EWG Skin Deep Database
+https://www.ewg.org/skindeep/
