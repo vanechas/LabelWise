@@ -1,11 +1,6 @@
 ```markdown
 # 🌿 LabelWise
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR_Engine-green?style=flat)](https://github.com/tesseract-ocr/tesseract)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 > A Python-based computer vision application that captures skincare product packaging, extracts ingredient lists via OCR, and cross-references them against a curated safety database.
 
 ---
