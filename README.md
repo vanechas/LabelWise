@@ -1,4 +1,3 @@
-```markdown
 # 🌿 LabelWise
 
 > A Python-based computer vision application that captures skincare product packaging, extracts ingredient lists via OCR, and cross-references them against a curated safety database.
